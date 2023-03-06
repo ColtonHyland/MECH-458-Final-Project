@@ -4,3 +4,5 @@ For this term project we propose our solution to the specified sorting problem f
 The software and hardware interfacing are detailed to outline the solution of the project challenge. Specifically, the MCU interface with the various apparatus components is displayed along with a discussion of the sorting algorithm and its implementation. 
 
 Our solution to this problem is outlined and discussed within certain limitations and conventions of the apparatus and environment. The results of the solution are analyzed and discussed to provide some insight on how the solution could be improved for the future. 
+
+## Please read more in the full report
